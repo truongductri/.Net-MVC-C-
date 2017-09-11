@@ -15,6 +15,7 @@ namespace ApartmentManage.Controllers
 
         public ActionResult Test()
         {
+            var x = 1;
             return View();
         }
 
